@@ -1,0 +1,13 @@
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\bin\Debug\FitnesProject1.exe.config
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\bin\Debug\FitnesProject1.exe
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\bin\Debug\FitnesProject1.pdb
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.csprojResolveAssemblyReference.cache
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.Form1.resources
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.Properties.Resources.resources
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.csproj.GenerateResource.Cache
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.exe
+c:\users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.pdb
+C:\Users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.AddClient.resources
+C:\Users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.AddExercise.resources
+C:\Users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\obj\Debug\FitnesProject1.Admin.resources
+C:\Users\ivail\onedrive\documents\visual studio 2012\Projects\FitnesProject1\FitnesProject1\bin\Debug\Fitnes.mdb
